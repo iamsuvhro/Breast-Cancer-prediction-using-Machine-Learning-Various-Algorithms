@@ -12,6 +12,8 @@ This database is also available through the UW CS ftp server: ftp ftp.cs.wisc.ed
 
 Also can be found on UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
+In this repository i will trained lots of Machine  learning algorithm from scratch to find which will be the best Algorithm for this dataset.I did bunch of research for analysing this dataset in my main file that is ipython notebook you will see lots of analysis i did using seaborn library in python. seaborn is really a best python library for data visualization.
+
 **Attribute Information:**
 
 *1) ID number 2) Diagnosis (M = malignant, B = benign) 3-32)*
