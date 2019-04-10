@@ -1,8 +1,8 @@
 # Breast Cancer Wisconsin (Diagnostic) Prediction
 *Predict whether the cancer is benign or malignant*
 
-[![Status](https://img.shields.io/badge/status-maintained-brightgreen.svg?style=for-the-badge)]()
-[![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)]()
+<a href="#">[![Status](https://img.shields.io/badge/status-maintained-brightgreen.svg?style=for-the-badge)]()</a>
+<a href="https://github.com/suvhradipghosh07/Breast-Cancer-prediction-using-Machine-Learning-various-Algorithm/blob/master/README.md">[![npm](https://img.shields.io/npm/l/express.svg?style=for-the-badge)]()</a>
 
 <img src="img.jpg" aling="center">
 
