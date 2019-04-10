@@ -20,6 +20,18 @@ In this repository i will trained lots of Machine  learning algorithm from scrat
 
 <img src="text.png">
 
+**Random Forest Algorithm**
+
+```
+#define the algorithm class into the algo_one variable
+algo_one=RandomForestClassifier()
+algo_one.fit(x_train,y_train)
+#predicting the algorithm into the non trained dataset that is test set 
+prediction = algo_one.predict(x_test)
+metrics.accuracy_score(prediction,y_test)
+```
+>>0.956140350877193
+
 # Observation
 <html>
 <body>
