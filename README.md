@@ -20,6 +20,27 @@ In this repository i will trained lots of Machine  learning algorithm from scrat
 
 <img src="text.png">
 
+
+## How to use
+
+1. Clone the repo
+```
+git clone https://github.com/suvhradipghosh07/Breast-Cancer-prediction-using-Machine-Learning-various-Algorithm.git
+```
+
+2. cd to the repo
+```
+cd Breast-Cancer-prediction-using-Machine-Learning-various-Algorithm
+```
+
+3. Start Main file
+```
+python3 _main_.py 
+```
+
+**Have fun!**
+
+
 **Random Forest Algorithm**
 
 ```
